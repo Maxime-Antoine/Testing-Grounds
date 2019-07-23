@@ -9,5 +9,6 @@ Saved
 *.opendb
 *.sdf
 *.suo
+*.sln
 *.xcodeproj
 *.xcworkspace
